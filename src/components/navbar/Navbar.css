@@ -1,0 +1,21 @@
+.navbarContainer {
+    display: flex;
+    padding: 2rem;
+    align-items: center;
+    margin: 1rem;
+    position: absolute;
+    right: 0;
+    border-radius: 2rem;
+}
+
+.modalContainer{
+    padding: 2rem;
+}
+
+.inputContainer{
+    margin: 1rem 0rem;
+}
+
+.textAreaContainer{
+    margin: 1rem 0rem;
+}

@@ -1,0 +1,23 @@
+.container {
+    margin: auto;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    height: 100vh;
+}
+
+.cardContainer {
+    padding: 1rem;
+    align-content: space-between;
+    border: solid;
+    margin: 0rem 4rem;
+    width: 50%;
+    height: 70%;
+    position: relative;
+    max-height: auto;
+    float: left;
+    overflow: hidden;
+    overflow-y: auto;
+}
